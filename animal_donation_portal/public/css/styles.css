@@ -1,0 +1,30 @@
+
+    .hero-section {
+      background: url('../assets/hero.jpg') center/cover no-repeat;
+      border-radius: 16px;
+      padding: 100px 30px;
+      color: white;
+      text-align: center;
+      font-weight: bolder;
+    }
+    .animal-card img {
+      border-radius: 10px;
+      object-fit: cover;
+      height: 240px;
+    }
+    .animal-card {
+      transition: transform 0.2s ease;
+    }
+    .animal-card:hover {
+      transform: scale(1.02);
+    }
+    .btn-donate {
+      background-color: #22c55e;
+      color: white;
+      font-weight: bold;
+    }
+    @media (max-width: 576px) {
+      .hero-section h1 {
+        font-size: 1.75rem;
+      }
+    }
