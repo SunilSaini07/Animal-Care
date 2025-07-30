@@ -1,4 +1,4 @@
-# 🐾 Animal Care – Donation Portal for Welfare Organizations
+# 🐾 Animal Care – Donation Portal for Pets
 
 **Animal Care** is a web-based donation platform designed to support animal welfare causes. This project bridges the gap between compassionate donors and organizations or individuals working toward the care, protection, and rehabilitation of animals.
 
@@ -23,7 +23,6 @@ To run the project locally:
 ```bash
 git clone https://github.com/SunilSaini07/Animal-Care.git
 cd Animal-Care/animal_donation_portal
-
-----
+---
 
 **Created By : Sunil Saini**
