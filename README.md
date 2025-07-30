@@ -7,7 +7,6 @@ The portal provides a secure and simple way for users to explore campaigns and c
 
 ## 🌟 Features
 - 🧭 Intuitive user interface for seamless navigation
-- 📋 Listing and promotion of active donation campaigns
 - 🔒 Secure and transparent donation system *(implementation in progress)*
 - 📊 Donation goal tracking and progress indicators
 
