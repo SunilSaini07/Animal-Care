@@ -20,9 +20,9 @@ The portal provides a secure and simple way for users to explore campaigns and c
 
 To run the project locally:
 
- ```bash
-  git clone https://github.com/SunilSaini07/Animal-Care.git
-  cd Animal-Care/animal_donation_portal
+    ```bash
+    git clone https://github.com/SunilSaini07/Animal-Care.git
+    cd Animal-Care/animal_donation_portal
 
 ---
 
